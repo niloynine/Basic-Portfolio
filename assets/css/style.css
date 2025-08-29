@@ -140,7 +140,7 @@ html {
 .cta-button {
     display: inline-block;
     padding: 15px 30px;
-    background: #2563eb;
+    background: #eb252c;
     color: white;
     text-decoration: none;
     border-radius: 50px;
@@ -248,7 +248,7 @@ section h2 {
 .tech-tag {
     display: inline-block;
     background: #e2e8f0;
-    color: #2563eb;
+    color: #eb252c;
     padding: 0.3rem 0.8rem;
     border-radius: 20px;
     font-size: 0.85rem;
@@ -274,7 +274,7 @@ section h2 {
 }
 
 .project-links a:hover {
-    color: #1d4ed8;
+    color: #1dd849;
 }
 
 /* Achievements Section */
@@ -301,7 +301,7 @@ section h2 {
 }
 
 .achievement-card h3 {
-    color: #2563eb;
+    color: #eb2592;
     margin-bottom: 1rem;
     font-size: 1.3rem;
 }
