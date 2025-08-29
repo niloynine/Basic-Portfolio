@@ -32,9 +32,9 @@ $portfolio_data = [
             'live' => '' // Add live demo URL if available
         ],
         [
-            'title' => 'Blog Website',
-            'description' => 'A simple blog website where users can read and write articles.',
-            'technologies' => ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
+            'title' => 'Authentication System',
+            'description' => 'Basic sign in, log in, log out pages with navigation bar ( session added ).',
+            'technologies' => ['HTML', 'CSS', 'PHP', 'MySQL'],
             'github' => 'https://github.com/niloynine/project_1-php-',
             'live' => '' // Add live demo URL if available
         ]
